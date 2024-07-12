@@ -20,4 +20,6 @@ A laboratory technician's position has the highest attrition rate, i.e. 62.
 The attrition rate is higher for male employees than for female employees.
 By providing these insights, the dashboard enables HR managers to take proactive measures to retain top talent, manage attrition, and create a more productive work environment.
 
-![hr](https://github.com/user-attachments/assets/a96b4248-3538-45d7-9ba8-c1136a3293aa)
+# Dashboard 
+![HR Dashboard](https://github.com/user-attachments/assets/6fb03f2a-b875-43df-934f-5aafb4022165)
+
